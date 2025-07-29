@@ -4,7 +4,7 @@ A machine learning app that predicts used car prices based on brand, model, year
 
 ## 🔗 Live App
 
-👉 [Click here to view the deployed Streamlit app](https://Hemsai123-car-price-predictor.streamlit.app)
+👉 [Click here to view the deployed Streamlit app](carpricepredictor-hem.streamlit.app)
 
 ## 🧠 Features
 
